@@ -21,7 +21,9 @@ Interactive Filters – Analyze by location, room type, or availability.
 Power BI – Data modeling, dashboard creation, and visualization.
 
 Dataset – Airbnb listings dataset (CSV/Excel).
-<img width="1911" height="777" alt="Screenshot 2025-08-19 210047" src="https://github.com/user-attachments/assets/02f2da40-e5d5-4b37-b585-5b288cdfdd97" />   <img width="1900" height="792" alt="Screenshot 2025-08-19 210104" src="https://github.com/user-attachments/assets/837ff20d-c4b3-4970-bbcd-736f0a0645a2" />
+<img width="1911" height="777" alt="Screenshot 2025-08-19 210047" src="https://github.com/user-attachments/assets/02f2da40-e5d5-4b37-b585-5b288cdfdd97" />  
+
+<img width="1900" height="792" alt="Screenshot 2025-08-19 210104" src="https://github.com/user-attachments/assets/837ff20d-c4b3-4970-bbcd-736f0a0645a2" />
 
 DAX (Data Analysis Expressions) – Used for calculated fields and KPIs.
 
@@ -29,7 +31,9 @@ Excel / SQL – For preprocessing raw data.
 
 
 **📊 Sample Dashboard Preview**
+
    <img width="1910" height="943" alt="Screenshot 2025-08-19 210213" src="https://github.com/user-attachments/assets/9f175b67-8e80-4fe0-a90f-5b16fd272d71" />
+   
    <img width="1917" height="946" alt="Screenshot 2025-08-19 210313" src="https://github.com/user-attachments/assets/5a525421-6dac-477d-9465-d8b48bcceaec" />
 
 **📂 Project Structure**
