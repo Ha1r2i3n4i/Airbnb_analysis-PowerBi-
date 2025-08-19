@@ -21,10 +21,11 @@ Interactive Filters – Analyze by location, room type, or availability.
 Power BI – Data modeling, dashboard creation, and visualization.
 
 Dataset – Airbnb listings dataset (CSV/Excel).
-<img width="1911" height="777" alt="Screenshot 2025-08-19 210047" src="https://github.com/user-attachments/assets/02f2da40-e5d5-4b37-b585-5b288cdfdd97" />  
 
+  **listing_details_dataset**
+<img width="1911" height="777" alt="Screenshot 2025-08-19 210047" src="https://github.com/user-attachments/assets/02f2da40-e5d5-4b37-b585-5b288cdfdd97" /> 
 
-
+   **review_details_dataset**
 <img width="1900" height="792" alt="Screenshot 2025-08-19 210104" src="https://github.com/user-attachments/assets/837ff20d-c4b3-4970-bbcd-736f0a0645a2" />
 
 DAX (Data Analysis Expressions) – Used for calculated fields and KPIs.
